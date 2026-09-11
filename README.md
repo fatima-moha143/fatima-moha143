@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hey, I'm Fatima 👋
 
-<!--
-**fatima-moha143/fatima-moha143** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computer Science student building, learning, and turning ideas into real projects.
 
-Here are some ideas to get you started:
+I’m interested in **technology, software, and data**, and I enjoy learning by creating things rather than just studying them.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 What I'm Doing
+
+Building projects, exploring new technologies, and continuously improving my technical skills.
+
+### 📂 Here You'll Find
+
+Projects, experiments, coursework, and things I'm currently learning.
+
+> **Learn. Build. Grow.**
